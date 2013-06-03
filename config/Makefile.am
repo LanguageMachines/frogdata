@@ -35,6 +35,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.known.ddwdwfWawawaa.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
 	cgntags.main cgntags.sub \
+	frog.filter \
 	frog.cfg
 
 configdir = $(sysconfdir)/frog

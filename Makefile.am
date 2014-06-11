@@ -3,7 +3,7 @@
 
 SUBDIRS = config
 
-EXTRA_DIST = bootstrap AUTHORS TODO NEWS
+EXTRA_DIST = bootstrap.sh AUTHORS TODO NEWS
 
 ChangeLog: $(top_srcdir)/NEWS
 	svn update; svn2cl --include-rev

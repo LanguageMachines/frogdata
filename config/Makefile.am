@@ -34,7 +34,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.known.ddwdwfWawawaa \
 	ner.data.known.ddwdwfWawawaa.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
-	cgntags.main cgntags.sub \
+	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	frog.cfg
 

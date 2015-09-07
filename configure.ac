@@ -4,11 +4,12 @@
 # $URL: https://ilk.uvt.nl/svn/sources/Frog/trunk/configure.ac $
 
 AC_PREREQ(2.59)
-AC_INIT([frogdata], [0.6], [timbl@uvt.nl])
+AC_INIT([frogdata], [0.7], [timbl@uvt.nl])
 AM_INIT_AUTOMAKE
 AC_CONFIG_SRCDIR([configure.ac])
 
 AC_OUTPUT([
   Makefile
+  frogdata.pc
   config/Makefile
 ])

@@ -1,0 +1,7 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+
+Name: frogdata
+Version: @VERSION@
+Description: datafiles for frog
+

@@ -5,5 +5,8 @@ SUBDIRS = config
 
 EXTRA_DIST = bootstrap.sh AUTHORS TODO NEWS
 
+pkgconfigdir = $(libdir)/pkgconfig
+pkgconfig_DATA = frogdata.pc
+
 ChangeLog: $(top_srcdir)/NEWS
 	svn update; svn2cl --include-rev

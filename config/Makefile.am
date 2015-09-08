@@ -36,6 +36,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
+	striptokens.txt \
 	frog.cfg
 
 configdir = $(sysconfdir)/frog

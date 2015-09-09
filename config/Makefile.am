@@ -34,6 +34,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.known.ddwdwfWawawaa \
 	ner.data.known.ddwdwfWawawaa.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
+	ner.known \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

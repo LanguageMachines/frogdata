@@ -3,7 +3,7 @@
 
 SUBDIRS = config
 
-EXTRA_DIST = bootstrap.sh AUTHORS TODO NEWS
+EXTRA_DIST = bootstrap.sh AUTHORS TODO NEWS frogdata.pc.in
 
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = frogdata.pc

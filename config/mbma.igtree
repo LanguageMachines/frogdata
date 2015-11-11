@@ -2503,7 +2503,7 @@ Classes
 2496	i+Ds|tm+Ds
 2497	te2+Ds
 2498	A|V_*N|V_*V
-2499	0|0+Res>z|0+Rs>z
+2499	0|0+Rs>z|0+Rs>z
 2500	0|i|tm|pv|vm
 2501	0/pv|0/te1|0/te2I|0/ve
 2502	N_*V|V_*V

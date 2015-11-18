@@ -1,13 +1,12 @@
-ADJ A
-BW B
-LET X   //Let is Punctuatie, en dat kent mbma (blijkbaar) niet
-LID D
 N N
-SPEC PN
-TSW I
+ADJ A
 TW Q
-VG Y
-VNW O
-VWN O
-VZ P
 WW V
+LID D
+VNW O
+BW B
+VZ P
+SPEC PN
+VG C
+TSW I
+LET X   //Let is Punctuatie, en dat kent mbma (blijkbaar) niet

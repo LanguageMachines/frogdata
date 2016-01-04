@@ -1,0 +1,11 @@
+Makefile.in
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+config/Makefile
+config/Makefile.in
+configure
+frogdata.pc
+install-sh
+missing

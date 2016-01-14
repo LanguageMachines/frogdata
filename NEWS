@@ -1,3 +1,10 @@
+0.9 [Ko van der Sloot] 14-01-2016
+ * repository moved to git
+ * improved mbma and mblem data
+ * update frog.cfg, attempt to make more things configurable in frog
+ * mblem no longer uses a transtable
+
+
 0.6 [Ko van der Sloot] 11-06-2014
  * cleaned mblem data a lot
  * cleaned mbma data a lot

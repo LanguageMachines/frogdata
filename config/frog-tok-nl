@@ -151,9 +151,9 @@ f
 [FILTER]
 %include ligatures
 # replace all 'ticks'
-‘ '
-’ '
-` '
+#‘ '
+#’ '
+#` '
 # also remove soft hyphen
 \u00AD
 

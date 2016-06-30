@@ -39,4 +39,10 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 
 configdir = $(sysconfdir)/frog/nl
 
+# for backward compatbility we also install dutch in
+# the parent dir!
+
+config2_DATA = $(config_DATA)
+config2dir = $(sysconfdir)/frog
+
 EXTRA_DIST = $(config_DATA)

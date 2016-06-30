@@ -1,7 +1,0 @@
-# decription:
-# TAG	UCTO-class	num
-# describes the number of characters to strip from the word with TAG and UCTO-class
-# atm strips only at the back!
-
-SPEC(deeleigen)	QUOTE-SUFFIX	1
-SPEC(deeleigen)	WORD-WITHSUFFIX	2

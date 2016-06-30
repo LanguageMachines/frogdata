@@ -1,5 +1,4 @@
-# $Id$
-# $URL$
+SUBDIRS = nl
 
 config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	mbma.igtree mbma.igtree.wgt \

@@ -10,4 +10,5 @@ AC_OUTPUT([
   Makefile
   frogdata.pc
   config/Makefile
+  config/nl/Makefile
 ])

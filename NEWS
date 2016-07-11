@@ -1,3 +1,9 @@
+0.10 [Ko van der Sloot] 11-07-2016
+ * The data is now stored in language dependend subdirectories
+   (for now only /nl)
+   for backward compatability, the dutch /nl data is copied to the root
+   configdir too
+
 0.9 [Ko van der Sloot] 14-01-2016
  * repository moved to git
  * improved mbma and mblem data

@@ -6,9 +6,11 @@ AC_INIT([frogdata], [0.12], [lamasoftware@science.ru.nl])
 AM_INIT_AUTOMAKE
 AC_CONFIG_SRCDIR([configure.ac])
 
+AC_PROG_LN_S
+
 AC_OUTPUT([
   Makefile
   frogdata.pc
   config/Makefile
-  config/nl/Makefile
+  config/nld/Makefile
 ])

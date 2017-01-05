@@ -1,3 +1,11 @@
+0.12 [Ko van der Sloot] 11-07-2016
+* generally use ISO 639-3 for language codes
+* quite a big update in the MBMA rules
+
+0.11 [Maarten van Gompel] 08-09-2016
+ *  Version number added to configuration itself
+ *  Fixed a typo in two rules
+
 0.10 [Ko van der Sloot] 11-07-2016
  * The data is now stored in language dependend subdirectories
    (for now only /nl)

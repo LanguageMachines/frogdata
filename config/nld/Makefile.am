@@ -49,5 +49,5 @@ EXTRA_DIST = $(config_DATA)
 
 install-data-hook:
 # for backward compatability we add a symlink to a 'nl' dir
-	cd $(config2dir) && \
+	cd $(DESTDIR)$(config2dir) && \
 	$(LN_S) -f nld nl

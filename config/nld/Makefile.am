@@ -37,17 +37,6 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	striptokens.txt \
 	frog.cfg
 
-configdir = $(sysconfdir)/frog/nld
-
-# for backward compatability we also install dutch in
-# the parent dir!
-
-config2_DATA = $(config_DATA)
-config2dir = $(sysconfdir)/frog
+configdir = $(datadir)/frog/nld
 
 EXTRA_DIST = $(config_DATA)
-
-install-data-hook:
-# for backward compatability we add a symlink to a 'nl' dir
-	cd $(DESTDIR)$(config2dir) && \
-	$(LN_S) -f nld nl

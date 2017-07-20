@@ -39,7 +39,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.enriched.data.known.ddwdwfWawawaa \
 	ner.enriched.data.known.ddwdwfWawawaa.wgt \
 	ner.enriched.data.unknown.chnppddwdwFawawaasss \
-	ner.known \
+	ner.known per.ner org.ner\
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

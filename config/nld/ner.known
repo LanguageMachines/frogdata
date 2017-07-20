@@ -1,3 +1,3 @@
-de Zwarte Zwadderneel	per
-de LaMa groep		org
-Proycon			per
+# format: categor TAB filename
+per	per.ner
+org	org.ner

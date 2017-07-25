@@ -31,7 +31,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.known.ddwdwfWawawaa \
 	ner.data.known.ddwdwfWawawaa.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
-	nergen.settings \
+	nergen.data.settings \
 	nergen.data.lex.ambi.05 \
 	nergen.data.lex \
 	nergen.data.10paxes \
@@ -39,7 +39,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	nergen.data.known.ddwdwfWawawaa \
 	nergen.data.known.ddwdwfWawawaa.wgt \
 	nergen.data.unknown.chnppddwdwFawawaasss \
-	ner.known per.ner org.ner pro.ner eve.ner misc.ner \
+	ner.known per.ner org.ner pro.ner eve.ner misc.ner geonames.ner \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

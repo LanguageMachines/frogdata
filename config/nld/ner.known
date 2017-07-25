@@ -5,3 +5,4 @@ misc	misc.ner
 eve	eve.ner
 pro	pro.ner
 loc	loc.ner
+loc	geonames.ner

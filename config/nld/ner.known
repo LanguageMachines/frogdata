@@ -1,3 +1,7 @@
 # format: categor TAB filename
 per	per.ner
 org	org.ner
+misc	misc.ner
+eve	eve.ner
+pro	pro.ner
+loc	loc.ner

@@ -31,15 +31,15 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	ner.data.known.ddwdwfWawawaa \
 	ner.data.known.ddwdwfWawawaa.wgt \
 	ner.data.unknown.chnppddwdwFawawaasss \
-	ner.enriched.data.lex.ambi.05 \
-	ner.enriched.data.lex \
-	ner.enriched.data.settings \
-	ner.enriched.data.10paxes \
-	ner.enriched.data.top1000 \
-	ner.enriched.data.known.ddwdwfWawawaa \
-	ner.enriched.data.known.ddwdwfWawawaa.wgt \
-	ner.enriched.data.unknown.chnppddwdwFawawaasss \
-	ner.known per.ner org.ner\
+	nergen.settings \
+	nergen.data.lex.ambi.05 \
+	nergen.data.lex \
+	nergen.data.10paxes \
+	nergen.data.top1000 \
+	nergen.data.known.ddwdwfWawawaa \
+	nergen.data.known.ddwdwfWawawaa.wgt \
+	nergen.data.unknown.chnppddwdwFawawaasss \
+	ner.known per.ner org.ner pro.ner eve.ner misc.ner \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

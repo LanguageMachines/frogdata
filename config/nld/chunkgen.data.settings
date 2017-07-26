@@ -1,0 +1,9 @@
+ENRICHED
+e <utt>
+l chunkgen.data.lex.ambi.05
+k chunkgen.data.known.dddwfWawa
+u chunkgen.data.unknown.chnppddwFawsss
+p dddwfWawa
+P chnppddwFawsss
+O +vS -G0 +D K: -a IGtree -w gr U: -a IB1 -mM -L 2 -k 5 -w gr -dID
+L chunkgen.data.top1000

@@ -1,5 +1,7 @@
 # format: categor TAB filename
 per	per.ner
+per	voornamen.lst
+per	familienamen.lst
 org	org.ner
 misc	misc.ner
 eve	eve.ner

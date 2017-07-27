@@ -41,6 +41,7 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	nergen.data.unknown.chnppddwdwFawawaasss \
 	ner.known loc.ner per.ner org.ner pro.ner \
 	eve.ner misc.ner geonames.ner \
+	voornamen.lst familienamen.lst \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

@@ -7,4 +7,5 @@ misc	misc.ner
 eve	eve.ner
 pro	pro.ner
 loc	loc.ner
-loc	geonames.ner
+loc	geonames-be.ner
+loc	geonames-nl.ner

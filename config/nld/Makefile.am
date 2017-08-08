@@ -23,14 +23,6 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	chunkgen.data.known.dddwfWawa \
 	chunkgen.data.known.dddwfWawa.wgt \
 	chunkgen.data.unknown.chnppddwFawsss \
-	ner.data.lex.ambi.05 \
-	ner.data.lex \
-	ner.data.settings \
-	ner.data.10paxes \
-	ner.data.top1000 \
-	ner.data.known.ddwdwfWawawaa \
-	ner.data.known.ddwdwfWawawaa.wgt \
-	ner.data.unknown.chnppddwdwFawawaasss \
 	nergen.data.settings \
 	nergen.data.lex.ambi.05 \
 	nergen.data.lex \

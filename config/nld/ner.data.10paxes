@@ -808,9 +808,9 @@ Power
 Prijs
 Prix
 Pétain
+Rain
 Rechts
 RECHTS
-Rain
 Reeds
 Report
 Review
@@ -1557,7 +1557,6 @@ Lambermont
 Laurent
 Laureys
 Leterme
-Letterkunde
 Liberale
 Libische
 Liga
@@ -2003,6 +2002,7 @@ lat
 leesvorm
 lerarenopleiding
 letterkunde
+Letterkunde
 letters
 levens
 leverden
@@ -11573,7 +11573,6 @@ PBA-B
 PCB
 PCB-crisis
 PKU
-POP
 PPP
 PR
 Paars
@@ -11621,6 +11620,7 @@ Pol
 Pollentier
 Polo
 Pop
+POP
 Poperinge
 Popp
 Portugezen
@@ -11916,18 +11916,18 @@ UK
 UNDP
 UNESCO-commissie
 UNHCR
-Uitgevers
-Ultra's
-Un2
-Untermenschen
-Up
 UP
 USS
 Uitgerekend
+Uitgevers
 Uitvoer
 Uitzonderlijk
+Ultra's
+Un2
 Unità
 Universal
+Untermenschen
+Up
 Uranus
 Urology
 Uíge
@@ -16101,6 +16101,7 @@ BELLEN
 BEMOEIDE
 BENEDEN
 BEROEP
+Bethune
 BETHUNE
 BGSWI
 BIJNA
@@ -16233,7 +16234,6 @@ Bestuurders
 Bestuurszaken
 Betaling
 Betancourt
-Bethune
 Betogingen
 Betrouwbare
 Betuwe-lijn
@@ -16934,9 +16934,9 @@ Félix
 Führer
 G8
 G8-top
+GAAN
 GAZASTROOK
 GAan
-GAAN
 GB
 GC-MS
 GDMW
@@ -17279,6 +17279,7 @@ INKOMEN
 INP
 INSTART
 INTERNET
+INTERVIEW
 IOC-lid
 ISO
 IT-systemen
@@ -17342,7 +17343,6 @@ Interrégionale
 Intertoys
 Interuniversitaire
 Interview
-INTERVIEW
 Intracytoplasmatische
 Introductie
 Introuvable
@@ -18619,7 +18619,6 @@ START
 STD-syteem
 STERKER
 STERKSTE
-STRIJD
 Saartje
 Sabena-drama
 Saddams
@@ -18854,6 +18853,7 @@ Straw
 Strengere
 Stress
 Strijd
+STRIJD
 Strijdtoneel
 Structuurfondsen
 Studentenverbond
@@ -19058,6 +19058,7 @@ Useful
 Ustaa-beweging
 Utrechter
 VAF
+Vast
 VAST
 VAV
 VBO
@@ -19124,7 +19125,6 @@ Vanunu
 Vanvelthoven
 Vanwaar
 Varkens
-Vast
 Veelvuldig
 Veelzeggende
 Veendam
@@ -30110,10 +30110,10 @@ Brussel-Congres
 Brussel-Luxemburg
 Brussel-Nationaal
 Brussel-Schuman
-Brussel-centraal
-Brussel-presentator
 Brussel-stad
 Brussel-Stad
+Brussel-centraal
+Brussel-presentator
 Brusselakkoord
 Brusselbeleid
 Brusselleer
@@ -30414,9 +30414,9 @@ Capucijnen
 Capucijnenstraat
 Capucins
 Car
+Caracas
 CarAcas
 Cara
-Caracas
 Caraibische
 Carcassonne
 Card
@@ -33846,6 +33846,7 @@ IJsselburg
 IJzerbedevaart
 IJzerbedevaarten
 IJzerbroeken
+Ijzervlakte
 IJzervlakte
 ILLEGALE
 ILLUSTRATIES
@@ -33926,7 +33927,6 @@ IgE-gehalte
 Ignatius
 Ijzer
 Ijzeren
-Ijzervlakte
 Ikzelf
 Il-Sung
 Il-khans
@@ -34386,9 +34386,9 @@ JÖRGEN
 Jérôme
 Jörg
 Jürgen
+K-Frage
 K-Wagen
 K-frage
-K-Frage
 K.B.
 K.E.
 K.H.
@@ -36341,6 +36341,7 @@ N60
 N8
 NAASTEN
 NABESTAANDEN
+Nabil
 NABIL
 NAC
 NAC-stadion
@@ -36446,7 +36447,6 @@ Na-apen
 Naakte
 Naamdragers
 Naargelang
-Nabil
 Nabloes
 Nachbarland
 Nachfolger
@@ -38115,7 +38115,6 @@ RIZV
 RKC
 ROBERT
 ROBIN
-Roept
 ROEPT
 ROV
 ROZENREVOLUTIE
@@ -38476,6 +38475,7 @@ Roeck
 Roegiers
 Roeland
 Roemaita
+Roept
 Roest
 Roey
 Rojales
@@ -38710,10 +38710,10 @@ SP-kaderleden
 SP-mandatarissen
 SP-tradities
 SP-voorzitter
-SP.A-SPIRIT
-SP.A-parlementslid
 SP.A/Spirit
 SP.a-SPIRIT
+SP.A-SPIRIT
+SP.A-parlementslid
 SPD-congres
 SPD-leden
 SPD-top
@@ -40429,7 +40429,6 @@ UGent-labo
 UITBREIDING
 UITEINDELIJK
 UITEN
-Uitgaan
 UITGAAN
 UITGEHAALD
 UITGEVER
@@ -40465,6 +40464,7 @@ Uitbreiding/GLB/Structuurfondsen
 Uitbundige
 Uitermate
 Uiterst
+Uitgaan
 Uitgaansleven
 Uitgaansmogelijkheden
 Uitgaven
@@ -40648,7 +40648,6 @@ VMBO-scholen
 VMM
 VMMtv
 VN-
-VN-Commissie
 VN-Global
 VN-RAPPORT
 VN-afdelingen
@@ -40658,6 +40657,7 @@ VN-blauwhelmen
 VN-bureau
 VN-chef
 VN-commissie
+VN-Commissie
 VN-functionarissen
 VN-gebouwencomplex
 VN-hof
@@ -51497,9 +51497,9 @@ inslagen
 inslapen
 insluiten
 inspanden
+inspectEErden
 inspecteerde
 inspecteerden
-inspectEErden
 inspecteren
 inspectie-team
 inspectiekorpsen

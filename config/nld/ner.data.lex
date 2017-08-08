@@ -3812,7 +3812,6 @@
 23 Doel B-loc:1 I-per:2 O:20 
 23 EUR B-misc:16 O:7 
 23 Energie B-misc:12 B-org:1 I-misc:4 I-org:2 O:4 
-23 Financiën B-misc:12 B-org:1 I-misc:1 I-org:3 O:6 
 23 Gisteren O:23 
 23 Grondwet B-misc:10 B-pro:1 O:12 
 23 Hiemstra I-per:23 
@@ -3859,6 +3858,7 @@
 23 domeinen O:23 
 23 drukken O:23 
 23 financiën O:23 
+23 Financiën B-misc:12 B-org:1 I-misc:1 I-org:3 O:6 
 23 geacht O:23 
 23 geadviseerd O:23 
 23 geboorte O:23 
@@ -8268,9 +8268,9 @@
 9 Prijs B-pro:3 I-eve:4 I-pro:1 O:1 
 9 Prix I-eve:6 I-pro:3 
 9 Pétain B-per:7 I-per:2 
+9 Rain I-eve:1 I-org:1 I-pro:7 
 9 Rechts O:9 
 9 RECHTS B-misc:9 
-9 Rain I-eve:1 I-org:1 I-pro:7 
 9 Reeds O:9 
 9 Report I-misc:1 I-pro:8 
 9 Review I-misc:8 I-pro:1 
@@ -9017,7 +9017,6 @@
 8 Laurent B-per:8 
 8 Laureys I-per:8 
 8 Leterme B-per:4 I-per:4 
-8 Letterkunde I-loc:1 I-misc:2 I-org:2 I-pro:3 
 8 Liberale B-misc:1 B-org:4 I-org:3 
 8 Libische B-loc:8 
 8 Liga B-org:2 I-org:6 
@@ -9463,6 +9462,7 @@
 8 leesvorm O:8 
 8 lerarenopleiding O:8 
 8 letterkunde I-pro:3 O:5 
+8 Letterkunde I-loc:1 I-misc:2 I-org:2 I-pro:3 
 8 letters O:8 
 8 levens O:8 
 8 leverden O:8 
@@ -19033,7 +19033,6 @@
 3 PCB B-misc:3 
 3 PCB-crisis B-misc:3 
 3 PKU B-misc:3 
-3 POP B-misc:1 O:2 
 3 PPP B-org:3 
 3 PR O:3 
 3 Paars B-misc:1 O:2 
@@ -19081,6 +19080,7 @@
 3 Pollentier I-per:3 
 3 Polo I-misc:1 I-per:2 
 3 Pop B-per:1 B-pro:1 I-per:1 
+3 POP B-misc:1 O:2 
 3 Poperinge B-loc:2 O:1 
 3 Popp I-per:3 
 3 Portugezen B-loc:3 
@@ -19376,18 +19376,18 @@
 3 UNDP B-org:3 
 3 UNESCO-commissie B-misc:3 
 3 UNHCR B-org:3 
-3 Uitgevers I-org:1 O:2 
-3 Ultra's B-org:3 
-3 Un2 I-pro:3 
-3 Untermenschen O:3 
-3 Up I-org:1 I-pro:2 
 3 UP O:3 
 3 USS B-pro:3 
 3 Uitgerekend O:3 
+3 Uitgevers I-org:1 O:2 
 3 Uitvoer O:3 
 3 Uitzonderlijk O:3 
+3 Ultra's B-org:3 
+3 Un2 I-pro:3 
 3 Unità B-org:2 O:1 
 3 Universal B-org:3 
+3 Untermenschen O:3 
+3 Up I-org:1 I-pro:2 
 3 Uranus B-loc:2 I-misc:1 
 3 Urology I-org:3 
 3 Uíge B-loc:3 
@@ -23561,6 +23561,7 @@
 2 BEMOEIDE O:2 
 2 BENEDEN B-misc:2 
 2 BEROEP O:2 
+2 Bethune I-per:2 
 2 BETHUNE I-per:2 
 2 BGSWI B-misc:2 
 2 BIJNA O:2 
@@ -23693,7 +23694,6 @@
 2 Bestuurszaken B-misc:1 O:1 
 2 Betaling O:2 
 2 Betancourt I-per:2 
-2 Bethune I-per:2 
 2 Betogingen O:2 
 2 Betrouwbare O:2 
 2 Betuwe-lijn B-loc:2 
@@ -24394,9 +24394,9 @@
 2 Führer O:2 
 2 G8 B-org:2 
 2 G8-top B-misc:2 
+2 GAAN O:2 
 2 GAZASTROOK B-loc:2 
 2 GAan I-misc:1 I-org:1 
-2 GAAN O:2 
 2 GB B-loc:1 O:1 
 2 GC-MS B-misc:2 
 2 GDMW B-eve:2 
@@ -24739,6 +24739,7 @@
 2 INP B-misc:2 
 2 INSTART O:2 
 2 INTERNET O:2 
+2 INTERVIEW O:2 
 2 IOC-lid B-misc:2 
 2 ISO B-misc:2 
 2 IT-systemen B-misc:2 
@@ -24802,7 +24803,6 @@
 2 Intertoys B-org:2 
 2 Interuniversitaire I-org:2 
 2 Interview O:2 
-2 INTERVIEW O:2 
 2 Intracytoplasmatische O:2 
 2 Introductie O:2 
 2 Introuvable I-misc:2 
@@ -26079,7 +26079,6 @@
 2 STD-syteem B-misc:2 
 2 STERKER O:2 
 2 STERKSTE O:2 
-2 STRIJD I-misc:1 O:1 
 2 Saartje B-per:2 
 2 Sabena-drama B-misc:2 
 2 Saddams B-per:2 
@@ -26314,6 +26313,7 @@
 2 Strengere O:2 
 2 Stress O:2 
 2 Strijd O:2 
+2 STRIJD I-misc:1 O:1 
 2 Strijdtoneel O:2 
 2 Structuurfondsen O:2 
 2 Studentenverbond I-org:2 
@@ -26518,6 +26518,7 @@
 2 Ustaa-beweging B-misc:2 
 2 Utrechter B-loc:2 
 2 VAF B-org:2 
+2 Vast O:2 
 2 VAST O:2 
 2 VAV B-org:2 
 2 VBO B-org:2 
@@ -26584,7 +26585,6 @@
 2 Vanvelthoven I-per:2 
 2 Vanwaar O:2 
 2 Varkens O:2 
-2 Vast O:2 
 2 Veelvuldig O:2 
 2 Veelzeggende O:2 
 2 Veendam B-loc:2 
@@ -37570,10 +37570,10 @@
 1 Brussel-Luxemburg B-loc:1 
 1 Brussel-Nationaal I-loc:1 
 1 Brussel-Schuman B-loc:1 
-1 Brussel-centraal B-loc:1 
-1 Brussel-presentator I-misc:1 
 1 Brussel-stad B-misc:1 
 1 Brussel-Stad B-loc:1 
+1 Brussel-centraal B-loc:1 
+1 Brussel-presentator I-misc:1 
 1 Brusselakkoord B-misc:1 
 1 Brusselbeleid B-misc:1 
 1 Brusselleer B-org:1 
@@ -37874,9 +37874,9 @@
 1 Capucijnenstraat B-loc:1 
 1 Capucins I-loc:1 
 1 Car I-org:1 
+1 Caracas B-loc:1 
 1 CarAcas B-loc:1 
 1 Cara B-per:1 
-1 Caracas B-loc:1 
 1 Caraibische B-pro:1 
 1 Carcassonne B-loc:1 
 1 Card I-per:1 
@@ -41306,6 +41306,7 @@
 1 IJzerbedevaart B-eve:1 
 1 IJzerbedevaarten B-eve:1 
 1 IJzerbroeken B-loc:1 
+1 Ijzervlakte B-loc:1 
 1 IJzervlakte B-misc:1 
 1 ILLEGALE O:1 
 1 ILLUSTRATIES O:1 
@@ -41386,7 +41387,6 @@
 1 Ignatius I-pro:1 
 1 Ijzer O:1 
 1 Ijzeren B-loc:1 
-1 Ijzervlakte B-loc:1 
 1 Ikzelf O:1 
 1 Il-Sung I-per:1 
 1 Il-khans B-misc:1 
@@ -41846,9 +41846,9 @@
 1 Jérôme B-per:1 
 1 Jörg B-per:1 
 1 Jürgen B-per:1 
+1 K-Frage B-misc:1 
 1 K-Wagen B-pro:1 
 1 K-frage B-misc:1 
-1 K-Frage B-misc:1 
 1 K.B. B-misc:1 
 1 K.E. B-per:1 
 1 K.H. B-per:1 
@@ -43801,6 +43801,7 @@
 1 N8 B-loc:1 
 1 NAASTEN O:1 
 1 NABESTAANDEN O:1 
+1 Nabil B-per:1 
 1 NABIL B-per:1 
 1 NAC B-org:1 
 1 NAC-stadion B-loc:1 
@@ -43906,7 +43907,6 @@
 1 Naakte B-pro:1 
 1 Naamdragers O:1 
 1 Naargelang O:1 
-1 Nabil B-per:1 
 1 Nabloes B-loc:1 
 1 Nachbarland I-misc:1 
 1 Nachfolger I-per:1 
@@ -45575,7 +45575,6 @@
 1 RKC B-org:1 
 1 ROBERT B-per:1 
 1 ROBIN B-per:1 
-1 Roept O:1 
 1 ROEPT O:1 
 1 ROV B-misc:1 
 1 ROZENREVOLUTIE B-eve:1 
@@ -45936,6 +45935,7 @@
 1 Roegiers I-per:1 
 1 Roeland B-per:1 
 1 Roemaita I-loc:1 
+1 Roept O:1 
 1 Roest O:1 
 1 Roey I-per:1 
 1 Rojales I-loc:1 
@@ -46170,10 +46170,10 @@
 1 SP-mandatarissen B-misc:1 
 1 SP-tradities B-misc:1 
 1 SP-voorzitter B-misc:1 
-1 SP.A-SPIRIT B-org:1 
-1 SP.A-parlementslid B-misc:1 
 1 SP.A/Spirit B-org:1 
 1 SP.a-SPIRIT B-misc:1 
+1 SP.A-SPIRIT B-org:1 
+1 SP.A-parlementslid B-misc:1 
 1 SPD-congres B-misc:1 
 1 SPD-leden B-misc:1 
 1 SPD-top B-misc:1 
@@ -47889,7 +47889,6 @@
 1 UITBREIDING B-misc:1 
 1 UITEINDELIJK O:1 
 1 UITEN O:1 
-1 Uitgaan O:1 
 1 UITGAAN O:1 
 1 UITGEHAALD O:1 
 1 UITGEVER O:1 
@@ -47925,6 +47924,7 @@
 1 Uitbundige O:1 
 1 Uitermate O:1 
 1 Uiterst O:1 
+1 Uitgaan O:1 
 1 Uitgaansleven O:1 
 1 Uitgaansmogelijkheden O:1 
 1 Uitgaven O:1 
@@ -48108,7 +48108,6 @@
 1 VMM B-org:1 
 1 VMMtv B-org:1 
 1 VN- B-misc:1 
-1 VN-Commissie B-org:1 
 1 VN-Global B-org:1 
 1 VN-RAPPORT B-misc:1 
 1 VN-afdelingen B-misc:1 
@@ -48118,6 +48117,7 @@
 1 VN-bureau B-misc:1 
 1 VN-chef B-misc:1 
 1 VN-commissie B-misc:1 
+1 VN-Commissie B-org:1 
 1 VN-functionarissen B-misc:1 
 1 VN-gebouwencomplex B-misc:1 
 1 VN-hof B-misc:1 
@@ -58957,9 +58957,9 @@
 1 inslapen O:1 
 1 insluiten O:1 
 1 inspanden O:1 
+1 inspectEErden O:1 
 1 inspecteerde O:1 
 1 inspecteerden O:1 
-1 inspectEErden O:1 
 1 inspecteren O:1 
 1 inspectie-team O:1 
 1 inspectiekorpsen O:1 

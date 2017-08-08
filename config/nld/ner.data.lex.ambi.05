@@ -3812,7 +3812,6 @@ Cultuur B-misc;O;I-misc;I-loc
 Doel O;I-per
 EUR B-misc;O
 Energie B-misc;I-misc;O;I-org
-Financiën B-misc;O;I-org
 Gisteren O
 Grondwet O;B-misc
 Hiemstra I-per
@@ -3859,6 +3858,7 @@ doe O
 domeinen O
 drukken O
 financiën O
+Financiën B-misc;O;I-org
 geacht O
 geadviseerd O
 geboorte O
@@ -8268,9 +8268,9 @@ Power I-org;I-misc
 Prijs I-eve;B-pro;I-pro;O
 Prix I-eve;I-pro
 Pétain B-per;I-per
+Rain I-pro;I-eve;I-org
 Rechts O
 RECHTS B-misc
-Rain I-pro;I-eve;I-org
 Reeds O
 Report I-pro;I-misc
 Review I-misc;I-pro
@@ -9017,7 +9017,6 @@ Lambermont B-misc;B-loc;I-per
 Laurent B-per
 Laureys I-per
 Leterme B-per;I-per
-Letterkunde I-pro;I-misc;I-org;I-loc
 Liberale B-org;I-org;B-misc
 Libische B-loc
 Liga I-org;B-org
@@ -9463,6 +9462,7 @@ lat O
 leesvorm O
 lerarenopleiding O
 letterkunde O;I-pro
+Letterkunde I-pro;I-misc;I-org;I-loc
 letters O
 levens O
 leverden O
@@ -19033,7 +19033,6 @@ PBA-B B-org
 PCB B-misc
 PCB-crisis B-misc
 PKU B-misc
-POP O;B-misc
 PPP B-org
 PR O
 Paars O;B-misc
@@ -19081,6 +19080,7 @@ Pol B-per
 Pollentier I-per
 Polo I-per;I-misc
 Pop B-per;B-pro;I-per
+POP O;B-misc
 Poperinge B-loc;O
 Popp I-per
 Portugezen B-loc
@@ -19376,18 +19376,18 @@ UK B-loc
 UNDP B-org
 UNESCO-commissie B-misc
 UNHCR B-org
-Uitgevers O;I-org
-Ultra's B-org
-Un2 I-pro
-Untermenschen O
-Up I-pro;I-org
 UP O
 USS B-pro
 Uitgerekend O
+Uitgevers O;I-org
 Uitvoer O
 Uitzonderlijk O
+Ultra's B-org
+Un2 I-pro
 Unità B-org;O
 Universal B-org
+Untermenschen O
+Up I-pro;I-org
 Uranus B-loc;I-misc
 Urology I-org
 Uíge B-loc
@@ -23561,6 +23561,7 @@ BELLEN O
 BEMOEIDE O
 BENEDEN B-misc
 BEROEP O
+Bethune I-per
 BETHUNE I-per
 BGSWI B-misc
 BIJNA O
@@ -23693,7 +23694,6 @@ Bestuurders O
 Bestuurszaken B-misc;O
 Betaling O
 Betancourt I-per
-Bethune I-per
 Betogingen O
 Betrouwbare O
 Betuwe-lijn B-loc
@@ -24394,9 +24394,9 @@ Félix B-per;I-per
 Führer O
 G8 B-org
 G8-top B-misc
+GAAN O
 GAZASTROOK B-loc
 GAan I-misc;I-org
-GAAN O
 GB B-loc;O
 GC-MS B-misc
 GDMW B-eve
@@ -24739,6 +24739,7 @@ INKOMEN O
 INP B-misc
 INSTART O
 INTERNET O
+INTERVIEW O
 IOC-lid B-misc
 ISO B-misc
 IT-systemen B-misc
@@ -24802,7 +24803,6 @@ Interrégionale B-org
 Intertoys B-org
 Interuniversitaire I-org
 Interview O
-INTERVIEW O
 Intracytoplasmatische O
 Introductie O
 Introuvable I-misc
@@ -26079,7 +26079,6 @@ START B-misc;O
 STD-syteem B-misc
 STERKER O
 STERKSTE O
-STRIJD I-misc;O
 Saartje B-per
 Sabena-drama B-misc
 Saddams B-per
@@ -26314,6 +26313,7 @@ Straw I-per
 Strengere O
 Stress O
 Strijd O
+STRIJD I-misc;O
 Strijdtoneel O
 Structuurfondsen O
 Studentenverbond I-org
@@ -26518,6 +26518,7 @@ Useful B-org;I-org
 Ustaa-beweging B-misc
 Utrechter B-loc
 VAF B-org
+Vast O
 VAST O
 VAV B-org
 VBO B-org
@@ -26584,7 +26585,6 @@ Vanunu B-per;I-per
 Vanvelthoven I-per
 Vanwaar O
 Varkens O
-Vast O
 Veelvuldig O
 Veelzeggende O
 Veendam B-loc
@@ -37570,10 +37570,10 @@ Brussel-Congres B-loc
 Brussel-Luxemburg B-loc
 Brussel-Nationaal I-loc
 Brussel-Schuman B-loc
-Brussel-centraal B-loc
-Brussel-presentator I-misc
 Brussel-stad B-misc
 Brussel-Stad B-loc
+Brussel-centraal B-loc
+Brussel-presentator I-misc
 Brusselakkoord B-misc
 Brusselbeleid B-misc
 Brusselleer B-org
@@ -37874,9 +37874,9 @@ Capucijnen B-org
 Capucijnenstraat B-loc
 Capucins I-loc
 Car I-org
+Caracas B-loc
 CarAcas B-loc
 Cara B-per
-Caracas B-loc
 Caraibische B-pro
 Carcassonne B-loc
 Card I-per
@@ -41306,6 +41306,7 @@ IJsselburg B-loc
 IJzerbedevaart B-eve
 IJzerbedevaarten B-eve
 IJzerbroeken B-loc
+Ijzervlakte B-loc
 IJzervlakte B-misc
 ILLEGALE O
 ILLUSTRATIES O
@@ -41386,7 +41387,6 @@ IgE-gehalte B-misc
 Ignatius I-pro
 Ijzer O
 Ijzeren B-loc
-Ijzervlakte B-loc
 Ikzelf O
 Il-Sung I-per
 Il-khans B-misc
@@ -41846,9 +41846,9 @@ JÖRGEN B-per
 Jérôme B-per
 Jörg B-per
 Jürgen B-per
+K-Frage B-misc
 K-Wagen B-pro
 K-frage B-misc
-K-Frage B-misc
 K.B. B-misc
 K.E. B-per
 K.H. B-per
@@ -43801,6 +43801,7 @@ N60 B-loc
 N8 B-loc
 NAASTEN O
 NABESTAANDEN O
+Nabil B-per
 NABIL B-per
 NAC B-org
 NAC-stadion B-loc
@@ -43906,7 +43907,6 @@ Na-apen O
 Naakte B-pro
 Naamdragers O
 Naargelang O
-Nabil B-per
 Nabloes B-loc
 Nachbarland I-misc
 Nachfolger I-per
@@ -45575,7 +45575,6 @@ RIZV B-org
 RKC B-org
 ROBERT B-per
 ROBIN B-per
-Roept O
 ROEPT O
 ROV B-misc
 ROZENREVOLUTIE B-eve
@@ -45936,6 +45935,7 @@ Roeck I-per
 Roegiers I-per
 Roeland B-per
 Roemaita I-loc
+Roept O
 Roest O
 Roey I-per
 Rojales I-loc
@@ -46170,10 +46170,10 @@ SP-kaderleden B-misc
 SP-mandatarissen B-misc
 SP-tradities B-misc
 SP-voorzitter B-misc
-SP.A-SPIRIT B-org
-SP.A-parlementslid B-misc
 SP.A/Spirit B-org
 SP.a-SPIRIT B-misc
+SP.A-SPIRIT B-org
+SP.A-parlementslid B-misc
 SPD-congres B-misc
 SPD-leden B-misc
 SPD-top B-misc
@@ -47889,7 +47889,6 @@ UGent-labo B-misc
 UITBREIDING B-misc
 UITEINDELIJK O
 UITEN O
-Uitgaan O
 UITGAAN O
 UITGEHAALD O
 UITGEVER O
@@ -47925,6 +47924,7 @@ Uitbreiding/GLB/Structuurfondsen B-misc
 Uitbundige O
 Uitermate O
 Uiterst O
+Uitgaan O
 Uitgaansleven O
 Uitgaansmogelijkheden O
 Uitgaven O
@@ -48108,7 +48108,6 @@ VMBO-scholen B-misc
 VMM B-org
 VMMtv B-org
 VN- B-misc
-VN-Commissie B-org
 VN-Global B-org
 VN-RAPPORT B-misc
 VN-afdelingen B-misc
@@ -48118,6 +48117,7 @@ VN-blauwhelmen B-misc
 VN-bureau B-misc
 VN-chef B-misc
 VN-commissie B-misc
+VN-Commissie B-org
 VN-functionarissen B-misc
 VN-gebouwencomplex B-misc
 VN-hof B-misc
@@ -58957,9 +58957,9 @@ inslagen O
 inslapen O
 insluiten O
 inspanden O
+inspectEErden O
 inspecteerde O
 inspecteerden O
-inspectEErden O
 inspecteren O
 inspectie-team O
 inspectiekorpsen O

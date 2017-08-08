@@ -33,6 +33,8 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	nergen.data.unknown.chnppddwdwFawawaasss \
 	ner.known loc.ner per.ner org.ner pro.ner \
 	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
+	waterschappen-nld.org gemeenten-nld.org provincies-nld.org \
+	regios-nld.org \
 	voornamen.lst familienamen.lst \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \

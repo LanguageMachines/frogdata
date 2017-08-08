@@ -9,3 +9,7 @@ pro	pro.ner
 loc	loc.ner
 loc	geonames-be.ner
 loc	geonames-nl.ner
+org	gemeenten-nld.org
+org	provincies-nld.org
+org	regios-nld.org
+org	waterschappen-nld.org

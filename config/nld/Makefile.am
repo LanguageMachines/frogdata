@@ -15,31 +15,34 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	Frog.mbdp.1.0.pairs.sampled.ibase.wgt \
 	Frog.mbdp.1.0.rels.ibase \
 	Frog.mbdp.1.0.rels.ibase.wgt \
+	chunkgen.data.lex.ambi.05 \
+	chunkgen.data.lex \
+	chunkgen.data.settings \
+	chunkgen.data.10paxes \
+	chunkgen.data.top1000 \
+	chunkgen.data.known.dddwfWawa \
+	chunkgen.data.known.dddwfWawa.wgt \
+	chunkgen.data.unknown.chnppddwFawsss \
 	chunker.train.lex.ambi.05 \
 	chunker.train.lex \
-	chunker.train.settings \
-	chunker.train.10paxes \
-	chunker.train.top1000 \
-	chunker.train.known.dddwfWawa \
-	chunker.train.known.dddwfWawa.wgt \
-	chunker.train.unknown.chnppddwFawsss \
-	ner.data.lex.ambi.05 \
-	ner.data.lex \
-	ner.data.settings \
-	ner.data.10paxes \
-	ner.data.top1000 \
-	ner.data.known.ddwdwfWawawaa \
-	ner.data.known.ddwdwfWawawaa.wgt \
-	ner.data.unknown.chnppddwdwFawawaasss \
-	ner.enriched.data.lex.ambi.05 \
-	ner.enriched.data.lex \
-	ner.enriched.data.settings \
-	ner.enriched.data.10paxes \
-	ner.enriched.data.top1000 \
-	ner.enriched.data.known.ddwdwfWawawaa \
-	ner.enriched.data.known.ddwdwfWawawaa.wgt \
-	ner.enriched.data.unknown.chnppddwdwFawawaasss \
-	ner.known \
+        chunker.train.settings \
+        chunker.train.10paxes \
+        chunker.train.top1000 \
+        chunker.train.known.dddwfWawa \
+        chunker.train.known.dddwfWawa.wgt \
+        chunker.train.unknown.chnppddwFawsss \
+	nergen.data.settings \
+	nergen.data.lex.ambi.05 \
+	nergen.data.lex \
+	nergen.data.10paxes \
+	nergen.data.top1000 \
+	nergen.data.known.ddwdwfWawaa \
+	nergen.data.unknown.chnppddwdwFawawasss \
+	ner.known loc.ner per.ner org.ner pro.ner \
+	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
+	waterschappen-nld.org gemeenten-nld.org provincies-nld.org \
+	regios-nld.org \
+	voornamen.lst familienamen.lst \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

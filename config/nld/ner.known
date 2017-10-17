@@ -1,4 +1,5 @@
-# format: categor TAB filename
+# format:
+# category TAB filename
 per	per.ner
 per	voornamen.lst
 per	familienamen.lst

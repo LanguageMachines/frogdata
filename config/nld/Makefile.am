@@ -28,9 +28,8 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	nergen.data.lex \
 	nergen.data.10paxes \
 	nergen.data.top1000 \
-	nergen.data.known.ddwdwfWawawaa \
-	nergen.data.known.ddwdwfWawawaa.wgt \
-	nergen.data.unknown.chnppddwdwFawawaasss \
+	nergen.data.known.ddwdwfWawaa \
+	nergen.data.unknown.chnppddwdwFawawasss \
 	ner.known loc.ner per.ner org.ner pro.ner \
 	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
 	waterschappen-nld.org gemeenten-nld.org provincies-nld.org \

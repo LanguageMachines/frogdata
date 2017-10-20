@@ -19,18 +19,9 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	chunkgen.data.lex \
 	chunkgen.data.settings \
 	chunkgen.data.10paxes \
-	chunkgen.data.top1000 \
+	chunkgen.data.top200 \
 	chunkgen.data.known.dddwfWawa \
-	chunkgen.data.known.dddwfWawa.wgt \
-	chunkgen.data.unknown.chnppddwFawsss \
-	chunker.train.lex.ambi.05 \
-	chunker.train.lex \
-        chunker.train.settings \
-        chunker.train.10paxes \
-        chunker.train.top1000 \
-        chunker.train.known.dddwfWawa \
-        chunker.train.known.dddwfWawa.wgt \
-        chunker.train.unknown.chnppddwFawsss \
+	chunkgen.data.unknown.chnppddwFawasss \
 	nergen.data.settings \
 	nergen.data.lex.ambi.05 \
 	nergen.data.lex \

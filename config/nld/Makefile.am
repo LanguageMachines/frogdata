@@ -1,4 +1,4 @@
-config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
+config_DATA = mblem.tree mblem.tree.wgt \
 	mbma.igtree mbma.igtree.wgt \
         Frog.mwu.1.0 \
 	Frog.mbt.1.0.1paxes \
@@ -29,11 +29,10 @@ config_DATA = mblem.transtable  mblem.tree mblem.tree.wgt \
 	nergen.data.top1000 \
 	nergen.data.known.ddwdwfWawaa \
 	nergen.data.unknown.chnppddwdwFawawasss \
-	ner.known loc.ner per.ner org.ner pro.ner \
+	ners.known loc.ner per.ner org.ner pro.ner \
 	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
-	waterschappen-nld.org gemeenten-nld.org provincies-nld.org \
-	regios-nld.org \
-	voornamen.lst familienamen.lst \
+	waterschappen-nld.ner gemeenten-nld.ner provincies-nld.ner \
+	regios-nld.ner voornamen.ner familienamen.ner \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

@@ -1,12 +1,8 @@
 # format:
 # category TAB filename
-per	per.ner
 per	voornamen.ner
 per	familienamen.ner
-org	org.ner
-misc	misc.ner
 eve	eve.ner
-pro	pro.ner
 loc	loc.ner
 loc	geonames-be.ner
 loc	geonames-nl.ner

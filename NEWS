@@ -1,5 +1,5 @@
 0.15 [Ko van der Sloot] 26-10-2017
-* new enhanced NER data, including gazeteer data
+* new enhanced NER data, including gazetteer data
 * new enhanced IOB data
 * numerous fixes in MBMA rules
 * some updates in MBLEM

@@ -6,6 +6,7 @@ eve	eve.ner
 loc	loc.ner
 loc	geonames-be.ner
 loc	geonames-nl.ner
+loc	landen-europa.ner
 org	gemeenten-nld.ner
 org	provincies-nld.ner
 org	regios-nld.ner

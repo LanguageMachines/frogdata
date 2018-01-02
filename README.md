@@ -1,4 +1,4 @@
-frogdata 0.9 CLST/ILK/CLiPS 1998 - 2017
+frogdata 0.9 CLST/ILK/CLiPS 1998 - 2018
 	 https://github.com/LanguageMachines/frogdata/
 
 documentation: https://languagemachines.github.io/frog

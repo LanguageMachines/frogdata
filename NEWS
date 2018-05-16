@@ -1,3 +1,6 @@
+0.16 [Ko van der Sloot] 16-05-2018
+* cleanup and additions to the NER gazeteer files
+
 0.15 [Ko van der Sloot] 26-10-2017
 * new enhanced NER data, including gazetteer data
 * new enhanced IOB data

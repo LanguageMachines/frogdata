@@ -36,6 +36,7 @@ config_DATA = mblem.tree mblem.tree.wgt \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \
+	subsets.cgn constraints.cgn \
 	frog.cfg
 
 configdir = $(datadir)/frog/nld

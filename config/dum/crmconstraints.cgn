@@ -1,0 +1,7 @@
+getal = VNW, N, ADJ
+pvagr = WW
+buiging = N, ADJ, WW, NUM, VNW, LID, VZ, VG, BW, TSW, TW, SPEC
+bwtype = BW
+status = BW
+pdtype = BW
+wwtype = WW

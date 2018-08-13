@@ -1,1 +1,1 @@
-SUBDIRS = nld
+SUBDIRS = nld dum

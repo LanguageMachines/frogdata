@@ -13,4 +13,5 @@ AC_OUTPUT([
   frogdata.pc
   config/Makefile
   config/nld/Makefile
+  config/dum/Makefile
 ])

@@ -4,10 +4,11 @@ per	voornamen.ner
 per	familienamen.ner
 eve	eve.ner
 loc	loc.ner
+loc	landen-europa.ner
+loc	plaatsen-nld.ner
+loc	straten-nld.ner
 loc	geonames-be.ner
 loc	geonames-nl.ner
-loc	landen-europa.ner
-loc	straten-nld.ner
 org	gemeenten-nld.ner
 org	provincies-nld.ner
 org	regios-nld.ner

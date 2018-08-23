@@ -8,7 +8,7 @@ loc	geonames-be.ner
 loc	geonames-nl.ner
 loc.street	straten-nld.ner
 loc.city	plaatsen-nld.ner
-loc.country	landen-europa.ner
+loc.country	landen.ner
 loc.region.province provincies-nld.ner
 org	org-gemeenten-nld.ner
 org	org-provincies-nld.ner

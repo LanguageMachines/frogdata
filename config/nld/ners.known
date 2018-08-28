@@ -10,6 +10,7 @@ loc.street	straten-nld.ner
 loc.city	plaatsen-nld.ner
 loc.country	landen.ner
 loc.region.province provincies-nld.ner
+loc.address.postalcode postcodes-nld.ner
 org	org-gemeenten-nld.ner
 org	org-provincies-nld.ner
 org	org-regios-nld.ner

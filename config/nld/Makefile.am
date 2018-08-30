@@ -33,6 +33,30 @@ config_DATA = mblem.tree mblem.tree.wgt \
 	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
 	waterschappen-nld.ner org-gemeenten-nld.ner org-provincies-nld.ner \
 	org-regios-nld.ner voornamen.ner familienamen.ner landen.ner plaatsen-nld.ner postcodes-nld.ner provincies-nld.ner \
+	geonames.BE.A.region.ner.txt \
+	geonames.BE.H-LK.lakes.ner.txt \
+	geonames.BE.H-SEA.seas.ner.txt \
+	geonames.BE.H-STM.rivers.ner.txt \
+	geonames.BE.H.water.ner.txt \
+	geonames.BE.L.parks.ner.txt \
+	geonames.BE.P.cities.ner.txt \
+	geonames.BE.R.roads.ner.txt \
+	geonames.BE.R-ST.streets.ner.txt \
+	geonames.BE.S.buildings.ner.txt \
+	geonames.BE.T.mountains.ner.txt \
+	geonames.BE.V.forests.ner.txt \
+	geonames.NL.A.region.ner.txt \
+	geonames.NL.H-LK.lakes.ner.txt \
+	geonames.NL.H-STM.rivers.ner.txt \
+	geonames.NL.H.water.ner.txt \
+	geonames.NL.L.parks.ner.txt \
+	geonames.NL.P.cities.ner.txt \
+	geonames.NL.R.roads.ner.txt \
+	geonames.NL.R-ST.streets.ner.txt \
+	geonames.NL.S.buildings.ner.txt \
+	geonames.NL.T.mountains.ner.txt \
+	geonames.NL.V.forests.ner.txt \
+	wereldsteden.ner.txt \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

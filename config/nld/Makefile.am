@@ -30,12 +30,11 @@ config_DATA = mblem.tree mblem.tree.wgt \
 	nergen.data.known.ddwdwfWawaa \
 	nergen.data.unknown.chnppddwdwFawawasss \
 	ners.known loc.ner per.ner org.ner pro.ner \
-	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
+	eve.ner misc.ner \
 	waterschappen-nld.ner org-gemeenten-nld.ner org-provincies-nld.ner \
 	org-regios-nld.ner voornamen.ner familienamen.ner landen.ner plaatsen-nld.ner postcodes-nld.ner provincies-nld.ner \
 	geonames.BE.A.region.ner.txt \
 	geonames.BE.H-LK.lakes.ner.txt \
-	geonames.BE.H-SEA.seas.ner.txt \
 	geonames.BE.H-STM.rivers.ner.txt \
 	geonames.BE.H.water.ner.txt \
 	geonames.BE.L.parks.ner.txt \

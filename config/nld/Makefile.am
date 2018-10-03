@@ -33,6 +33,7 @@ config_DATA = mblem.tree mblem.tree.wgt \
 	eve.ner misc.ner geonames-nl.ner geonames-be.ner \
 	waterschappen-nld.ner gemeenten-nld.ner provincies-nld.ner \
 	regios-nld.ner voornamen.ner familienamen.ner landen-europa.ner \
+	straten-nld.ner plaatsen-nld.ner \
 	cgntags.main cgntags.sub cgn_token.trans \
 	frog.filter \
 	striptokens.txt \

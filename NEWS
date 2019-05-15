@@ -1,3 +1,17 @@
+0.17 15-05-2019
+[Ko van der Sloot]
+* small fix in mblem data, and retrained
+* updated NER gazeteer files
+* added cgn constraints file
+
+[Maarten van Gompel]
+* config/nld/ners.known, config/nld/plaatsen-nld.ner: added dutch
+  cities/villages, may overlap with geonames but this is more specific
+* config/nld/ners.known, config/nld/straten-nld.ner: Added dutch
+  streets gazeteer data (extracted from OpenStreetMap)
+* Added	middle dutch model (INL/nederlab-linguistic-enrichment#15) in /dum/
+  subdir
+
 0.16 [Ko van der Sloot] 16-05-2018
 * cleanup and additions to the NER gazeteer files
 

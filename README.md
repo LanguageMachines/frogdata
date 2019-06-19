@@ -3,7 +3,8 @@ frogdata 0.9 CLST/ILK/CLiPS 1998 - 2019
 
 documentation: https://languagemachines.github.io/frog
 
-frogdata provides all necessary datafiles for frog.
+frogdata provides all necessary datafiles for frog. It contains primarily models for (contemporary) dutch. But also
+contains a model for middle dutch (language code dum), and early new dutch (vroegnieuwnederlands; nld-vnm).
 
 frogdata is architecture independent.
 

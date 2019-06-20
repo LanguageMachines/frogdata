@@ -1,1 +1,1 @@
-SUBDIRS = nld dum
+SUBDIRS = nld dum nld-vnn

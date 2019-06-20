@@ -14,4 +14,5 @@ AC_OUTPUT([
   config/Makefile
   config/nld/Makefile
   config/dum/Makefile
+  config/nld-vnn/Makefile
 ])

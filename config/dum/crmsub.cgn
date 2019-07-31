@@ -1,7 +1,7 @@
 buiging=zonder, met-a, met-s-of-th, met-t, overig, met-nt, met-n, met-s, met-r-of-re, met-e
 bwtype=alg, herv, neg, vrag, aanw, betr, onbep
 conjtype=verg, expl, neg, neven, kwal, betr, onder
-deel=hoofddeel-bw, bw-deel-ww, vz-deel-bw, deel, hoofddeel-ww
+deel=hoofddeel-bw, bw-deel-ww, vz-deel-bw, deel, hoofddeel-ww, deel-b, deel-f, deel-i
 genus=masc, genus, fem, onz, zijd
 getal-n=getal-n, mv-n, ev-n, zonder-n
 getal=ev, mv, getal

@@ -23,12 +23,36 @@ tmpdir=/tmp/
 # quotes to a single quote: ‘’`´ ==> '
 char_filter_file=frog.filter
 
+# the Tagger section
 [[tagger]]
+#
+# name of the Mbt settingsfile defining the Tagger
 settings="Frog.mbt.1.0.settings"
+#
+# version information
 version=1.0
+#
+# FoLiA setname to use when creating FoLiA
 set="http://ilk.uvt.nl/folia/sets/frog-mbpos-cgn"
+#
+# the name of the subsets file. (CGN extension)
+# subsets give a mapping from attributes to allowed value like:
+#   ntype = soort, eigen
+#   getal = ev, mv, getal
+#
 subsets_file="subsets.cgn"
+#
+# the name of the constraints file. (CGG extension)
+# constrainst give a mapping from values to POS tags
 constraints_file="constraints.cgn"
+#
+# the name of the token translation file
+# token translations give a mapping from Ucto Tokens to CGN tags
+# like
+#   PUNCTUATION		LET()
+#   ABBREVIATION-KNOWN	SPEC(afk)
+#   SMILEY		SPEC(symb)
+#
 token_trans_file=cgn_token.trans
 
 [[IOB]]

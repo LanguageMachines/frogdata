@@ -26,11 +26,11 @@ char_filter_file=frog.filter
 # the Tagger section
 [[tagger]]
 #
+# version information of this module
+version=1.0
+#
 # name of the Mbt settingsfile defining the Tagger
 settings="Frog.mbt.1.0.settings"
-#
-# version information
-version=1.0
 #
 # FoLiA setname to use when creating FoLiA
 set="http://ilk.uvt.nl/folia/sets/frog-mbpos-cgn"
@@ -54,56 +54,156 @@ constraints_file="constraints.cgn"
 #   SMILEY		SPEC(symb)
 #
 token_trans_file=cgn_token.trans
+#
+# set a debug value for this module. using --debug=T<value> might be handier
+# debug=0
 
+# the IOB chunker section
 [[IOB]]
-settings="chunkgen.data.settings"
+#
+# version information of this module
 version=2.0
+#
+# name of the Mbt settingsfile defining the Chunker
+settings="chunkgen.data.settings"
+#
+# FoLiA setname to use when creating FoLiA
 set="http://ilk.uvt.nl/folia/sets/frog-chunker-nl"
-#debug=0
+#
+# set a debug value for this module. using --debug=c<value> might be handier
+debug=0
 
+# the NER section
 [[NER]]
-settings="nergen.data.settings"
+#
+# version information of this module
 version=2.2
+#
+# name of the Mbt settingsfile defining the NER
+settings="nergen.data.settings"
+#
+# FoLiA setname to use when creating FoLiA
 set="http://ilk.uvt.nl/folia/sets/frog-ner-nl"
+#
+# the name of the file with the names of the gazeteer files
+# this is a list of categories + filenames, each file with gazeteer info for
+# that category
+# example:
+#   per	voornamen.ner
+#   per	familienamen.ner
+#   eve	eve.ner
+#   loc	loc.ner
+# meaning 'per' tags are te be found in voornamen.ner
+# which might look like this:
+#    Allerheiligen
+#    1 april
+#    5 mei
+#    Bevrijdingsdag
+#    Carnaval
+#    Dag van de Arbeid
+# so multi_word entires are allowed
 known_ners=ners.known
+#
+# maximum size of NE to handle
 max_ner_size=15
+#
+# set a debug value for this module. using --debug=n<value> might be handier
 #debug=8
 
+# the lemmatizer section
 [[mblem]]
-treeFile=mblem.tree
-timblOpts="-a1 -w2"
+#
+# version information of this module
 version=1.2
-one_one_tags=LET(),SPEC(symb),SPEC(deeleigen),SPEC(vreemd),SPEC(afk)
-token_strip_file=striptokens.txt
-set="http://ilk.uvt.nl/folia/sets/frog-mblem-nl"
-#debug=0
-
-[[mwu]]
-t=Frog.mwu.1.0
-version=1.0
-gluetag=SPEC(deeleigen)
-set="http://ilk.uvt.nl/folia/sets/frog-mwu-nl"
-#debug=0
-
-[[mbma]]
+#
+# the name of the trained Timbl datafile
+treeFile=mblem.tree
+#
+# The Timbl options used for training
 timblOpts="-a1 -w2"
-treeFile=mbma.igtree
-version=1.0
-set="http://ilk.uvt.nl/folia/sets/frog-mbma-nl"
+#
+# a list of CGN tags that will NOT be analyzed, but taken as-is
+# so an abreviation like 'a.u.b.' with tag SPEC(afk) will get itself as lemma
+one_one_tags=LET(),SPEC(symb),SPEC(deeleigen),SPEC(vreemd),SPEC(afk)
+#
+# a list of tokens to handle special based on Tokenizer results
+token_strip_file=striptokens.txt
+#
+# FoLiA setname to use when creating FoLiA
+set="http://ilk.uvt.nl/folia/sets/frog-mblem-nl"
+#
+# set a debug value for this module. using --debug=l<value> might be handier
 #debug=0
 
-[[tokenizer]]
-rulesFile="tokconfig-nld"
-
-[[parser]]
-pairsFile=Frog.mbdp.1.0.pairs.sampled.ibase
-dirFile=Frog.mbdp.1.0.dir.ibase
-relsFile=Frog.mbdp.1.0.rels.ibase
-pairsOptions="-a1 +D +G0 +vS+db+di"
-dirOptions="-a1 +D +G0 +vS+db+di"
-relsOptions=" -a1 +D +G0 +vS+db+di"
-maxDepSpan=20
+# the MWU section
+[[mwu]]
+#
+# version information of this module
 version=1.0
+#
+# the file with the list of known MWU's
+t=Frog.mwu.1.0
+#
+# all words with this CGN tag will be seen as (part of) an MWU
+gluetag=SPEC(deeleigen)
+#
+# FoLiA setname to use when creating FoLiA
+set="http://ilk.uvt.nl/folia/sets/frog-mwu-nl"
+#
+# set a debug value for this module. using --debug=m<value> might be handier
+#debug=0
+
+# the Morphological analyzer section
+[[mbma]]
+#
+# version information of this module
+version=1.0
+#
+# the name of the trained Timbl datafile
+treeFile=mbma.igtree
+#
+# The Timbl options used for training
+timblOpts="-a1 -w2"
+#
+# FoLiA setname to use when creating FoLiA
+set="http://ilk.uvt.nl/folia/sets/frog-mbma-nl"
+#
+# set a debug value for this module. using --debug=a<value> might be handier
+#debug=0
+
+# the Ucto tokenizer section
+[[tokenizer]]
+#
+# the (default) tokenizer config file to use
+rulesFile="tokconfig-nld"
+#
+# set a debug value for this module. using --debug=t<value> might be handier
+#debug=0
+
+# the parser section
+[[parser]]
+#
+# version information of this module
+version=1.0
+#
+# The trained Timbl for 'pairs' with the Timbl options
+pairsFile=Frog.mbdp.1.0.pairs.sampled.ibase
+pairsOptions="-a1 +D +G0 +vS+db+di"
+#
+# The trained Timbl for 'dir' with the Timbl options
+dirFile=Frog.mbdp.1.0.dir.ibase
+dirOptions="-a1 +D +G0 +vS+db+di"
+#
+# The trained Timbl for 'rels' with the Timbl options
+relsFile=Frog.mbdp.1.0.rels.ibase
+relsOptions=" -a1 +D +G0 +vS+db+di"
+#
+# the maximum depth for dependencies
+maxDepSpan=20
+#
+# FoLiA setname to use when creating FoLiA
 set="http://ilk.uvt.nl/folia/sets/frog-depparse-nl"
+#
+# the alpino server options (used by the --alpino=server option)
 alpino_host=localhost
 alpino_port=8004

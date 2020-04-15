@@ -1,3 +1,12 @@
+0.18 14-04-2020
+[Ko van der Sloot]
+* added some comment to nld/frog.cfg
+* added some test files to test using external Mblem/MBMA and Mbt servers
+* updated NER data
+
+[Maarten van Gompel]
+* added a nld-vnn configuration
+
 0.17 15-05-2019
 [Ko van der Sloot]
 * small fix in mblem data, and retrained

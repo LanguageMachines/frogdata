@@ -1,14 +1,14 @@
 config_DATA = mblem.tree mblem.tree.wgt \
 	mbma.igtree mbma.igtree.wgt \
         Frog.mwu.1.0 \
-	Frog.mbt.1.0.1paxes \
-	Frog.mbt.1.0.lex \
-	Frog.mbt.1.0.known.dddwfWawa \
-	Frog.mbt.1.0.known.dddwfWawa.wgt \
-	Frog.mbt.1.0.lex.ambi.05 \
-	Frog.mbt.1.0.settings \
-	Frog.mbt.1.0.top500 \
-	Frog.mbt.1.0.unknown.chnppdddwFawasss \
+	Frog.mbt.1.1.1paxes \
+	Frog.mbt.1.1.lex \
+	Frog.mbt.1.1.known.dddwfWawa \
+	Frog.mbt.1.1.known.dddwfWawa.wgt \
+	Frog.mbt.1.1.lex.ambi.05 \
+	Frog.mbt.1.1.settings \
+	Frog.mbt.1.1.top500 \
+	Frog.mbt.1.1.unknown.chnppdddwFawasss \
 	Frog.mbdp.1.0.dir.ibase \
 	Frog.mbdp.1.0.dir.ibase.wgt \
 	Frog.mbdp.1.0.pairs.sampled.ibase \

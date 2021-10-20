@@ -3812,6 +3812,7 @@
 23 Doel B-loc:1 I-per:2 O:20 
 23 EUR B-misc:16 O:7 
 23 Energie B-misc:12 B-org:1 I-misc:4 I-org:2 O:4 
+23 Financiën B-misc:12 B-org:1 I-misc:1 I-org:3 O:6 
 23 Gisteren O:23 
 23 Grondwet B-misc:10 B-pro:1 O:12 
 23 Hiemstra I-per:23 
@@ -3858,7 +3859,6 @@
 23 domeinen O:23 
 23 drukken O:23 
 23 financiën O:23 
-23 Financiën B-misc:12 B-org:1 I-misc:1 I-org:3 O:6 
 23 geacht O:23 
 23 geadviseerd O:23 
 23 geboorte O:23 
@@ -6586,7 +6586,6 @@
 12 OPENBAAR I-misc:12 
 12 Ontwikkelings O:12 
 12 Palestijns B-loc:12 
-12 Park B-loc:6 B-org:3 I-eve:2 I-loc:1 
 12 Pashtun B-misc:12 
 12 Poel I-org:3 I-per:8 I-pro:1 
 12 Raas B-per:4 I-per:8 
@@ -6817,6 +6816,7 @@
 12 paarden I-misc:1 O:11 
 12 pan O:12 
 12 park O:12 
+12 Park B-loc:6 B-org:3 I-eve:2 I-loc:1 
 12 parochie O:12 
 12 partnerschap I-misc:1 O:11 
 12 pauselijke O:12 
@@ -8268,9 +8268,9 @@
 9 Prijs B-pro:3 I-eve:4 I-pro:1 O:1 
 9 Prix I-eve:6 I-pro:3 
 9 Pétain B-per:7 I-per:2 
+9 RECHTS B-misc:9 
 9 Rain I-eve:1 I-org:1 I-pro:7 
 9 Rechts O:9 
-9 RECHTS B-misc:9 
 9 Reeds O:9 
 9 Report I-misc:1 I-pro:8 
 9 Review I-misc:8 I-pro:1 
@@ -9017,6 +9017,7 @@
 8 Laurent B-per:8 
 8 Laureys I-per:8 
 8 Leterme B-per:4 I-per:4 
+8 Letterkunde I-loc:1 I-misc:2 I-org:2 I-pro:3 
 8 Liberale B-misc:1 B-org:4 I-org:3 
 8 Libische B-loc:8 
 8 Liga B-org:2 I-org:6 
@@ -9462,7 +9463,6 @@
 8 leesvorm O:8 
 8 lerarenopleiding O:8 
 8 letterkunde I-pro:3 O:5 
-8 Letterkunde I-loc:1 I-misc:2 I-org:2 I-pro:3 
 8 letters O:8 
 8 levens O:8 
 8 leverden O:8 
@@ -15586,7 +15586,6 @@
 4 Surinamers B-loc:4 
 4 Susan B-per:3 O:1 
 4 Sébastien B-per:4 
-4 THIJS I-per:4 
 4 TIEN O:4 
 4 TU B-org:4 
 4 TWAALF O:4 
@@ -15609,6 +15608,7 @@
 4 Theodore B-per:4 
 4 Theodorus B-per:4 
 4 Thijs B-per:1 I-per:3 
+4 THIJS I-per:4 
 4 Tickets O:4 
 4 Tijden I-pro:4 
 4 Tikrit B-loc:4 
@@ -19033,6 +19033,7 @@
 3 PCB B-misc:3 
 3 PCB-crisis B-misc:3 
 3 PKU B-misc:3 
+3 POP B-misc:1 O:2 
 3 PPP B-org:3 
 3 PR O:3 
 3 Paars B-misc:1 O:2 
@@ -19080,7 +19081,6 @@
 3 Pollentier I-per:3 
 3 Polo I-misc:1 I-per:2 
 3 Pop B-per:1 B-pro:1 I-per:1 
-3 POP B-misc:1 O:2 
 3 Poperinge B-loc:2 O:1 
 3 Popp I-per:3 
 3 Portugezen B-loc:3 
@@ -23561,7 +23561,6 @@
 2 BEMOEIDE O:2 
 2 BENEDEN B-misc:2 
 2 BEROEP O:2 
-2 Bethune I-per:2 
 2 BETHUNE I-per:2 
 2 BGSWI B-misc:2 
 2 BIJNA O:2 
@@ -23694,6 +23693,7 @@
 2 Bestuurszaken B-misc:1 O:1 
 2 Betaling O:2 
 2 Betancourt I-per:2 
+2 Bethune I-per:2 
 2 Betogingen O:2 
 2 Betrouwbare O:2 
 2 Betuwe-lijn B-loc:2 
@@ -24394,9 +24394,9 @@
 2 Führer O:2 
 2 G8 B-org:2 
 2 G8-top B-misc:2 
+2 GAan I-misc:1 I-org:1 
 2 GAAN O:2 
 2 GAZASTROOK B-loc:2 
-2 GAan I-misc:1 I-org:1 
 2 GB B-loc:1 O:1 
 2 GC-MS B-misc:2 
 2 GDMW B-eve:2 
@@ -26079,6 +26079,7 @@
 2 STD-syteem B-misc:2 
 2 STERKER O:2 
 2 STERKSTE O:2 
+2 STRIJD I-misc:1 O:1 
 2 Saartje B-per:2 
 2 Sabena-drama B-misc:2 
 2 Saddams B-per:2 
@@ -26313,7 +26314,6 @@
 2 Strengere O:2 
 2 Stress O:2 
 2 Strijd O:2 
-2 STRIJD I-misc:1 O:1 
 2 Strijdtoneel O:2 
 2 Structuurfondsen O:2 
 2 Studentenverbond I-org:2 
@@ -26518,7 +26518,6 @@
 2 Ustaa-beweging B-misc:2 
 2 Utrechter B-loc:2 
 2 VAF B-org:2 
-2 Vast O:2 
 2 VAST O:2 
 2 VAV B-org:2 
 2 VBO B-org:2 
@@ -26585,6 +26584,7 @@
 2 Vanvelthoven I-per:2 
 2 Vanwaar O:2 
 2 Varkens O:2 
+2 Vast O:2 
 2 Veelvuldig O:2 
 2 Veelzeggende O:2 
 2 Veendam B-loc:2 
@@ -36891,7 +36891,6 @@
 1 Bayinnaung B-per:1 
 1 Baylonkerk I-loc:1 
 1 Bazar I-org:1 
-1 BeCa B-org:1 
 1 BeNeLux B-org:1 
 1 Bea B-per:1 
 1 Beas B-loc:1 
@@ -36899,6 +36898,7 @@
 1 Beaux I-org:1 
 1 Bebloemde B-pro:1 
 1 Beca B-org:1 
+1 BeCa B-org:1 
 1 Becauds I-per:1 
 1 Beck B-per:1 
 1 Beclers B-loc:1 
@@ -37874,9 +37874,9 @@
 1 Capucijnenstraat B-loc:1 
 1 Capucins I-loc:1 
 1 Car I-org:1 
-1 Caracas B-loc:1 
 1 CarAcas B-loc:1 
 1 Cara B-per:1 
+1 Caracas B-loc:1 
 1 Caraibische B-pro:1 
 1 Carcassonne B-loc:1 
 1 Card I-per:1 
@@ -38897,10 +38897,10 @@
 1 Dof B-pro:1 
 1 Dog I-pro:1 
 1 Dogo B-misc:1 
-1 Doha-Ronde B-misc:1 
 1 Doha-aganda B-misc:1 
 1 Doha-agenda B-misc:1 
 1 Doha-ronde B-misc:1 
+1 Doha-Ronde B-misc:1 
 1 Dokkum I-per:1 
 1 Dokoe B-per:1 
 1 Dokter O:1 
@@ -41306,7 +41306,6 @@
 1 IJzerbedevaart B-eve:1 
 1 IJzerbedevaarten B-eve:1 
 1 IJzerbroeken B-loc:1 
-1 Ijzervlakte B-loc:1 
 1 IJzervlakte B-misc:1 
 1 ILLEGALE O:1 
 1 ILLUSTRATIES O:1 
@@ -41387,6 +41386,7 @@
 1 Ignatius I-pro:1 
 1 Ijzer O:1 
 1 Ijzeren B-loc:1 
+1 Ijzervlakte B-loc:1 
 1 Ikzelf O:1 
 1 Il-Sung I-per:1 
 1 Il-khans B-misc:1 
@@ -43801,7 +43801,6 @@
 1 N8 B-loc:1 
 1 NAASTEN O:1 
 1 NABESTAANDEN O:1 
-1 Nabil B-per:1 
 1 NABIL B-per:1 
 1 NAC B-org:1 
 1 NAC-stadion B-loc:1 
@@ -43907,6 +43906,7 @@
 1 Naakte B-pro:1 
 1 Naamdragers O:1 
 1 Naargelang O:1 
+1 Nabil B-per:1 
 1 Nabloes B-loc:1 
 1 Nachbarland I-misc:1 
 1 Nachfolger I-per:1 
@@ -46170,10 +46170,10 @@
 1 SP-mandatarissen B-misc:1 
 1 SP-tradities B-misc:1 
 1 SP-voorzitter B-misc:1 
+1 SP.A-parlementslid B-misc:1 
 1 SP.A/Spirit B-org:1 
 1 SP.a-SPIRIT B-misc:1 
 1 SP.A-SPIRIT B-org:1 
-1 SP.A-parlementslid B-misc:1 
 1 SPD-congres B-misc:1 
 1 SPD-leden B-misc:1 
 1 SPD-top B-misc:1 
@@ -48108,6 +48108,7 @@
 1 VMM B-org:1 
 1 VMMtv B-org:1 
 1 VN- B-misc:1 
+1 VN-Commissie B-org:1 
 1 VN-Global B-org:1 
 1 VN-RAPPORT B-misc:1 
 1 VN-afdelingen B-misc:1 
@@ -48117,7 +48118,6 @@
 1 VN-bureau B-misc:1 
 1 VN-chef B-misc:1 
 1 VN-commissie B-misc:1 
-1 VN-Commissie B-org:1 
 1 VN-functionarissen B-misc:1 
 1 VN-gebouwencomplex B-misc:1 
 1 VN-hof B-misc:1 
@@ -58957,9 +58957,9 @@
 1 inslapen O:1 
 1 insluiten O:1 
 1 inspanden O:1 
-1 inspectEErden O:1 
 1 inspecteerde O:1 
 1 inspecteerden O:1 
+1 inspectEErden O:1 
 1 inspecteren O:1 
 1 inspectie-team O:1 
 1 inspectiekorpsen O:1 

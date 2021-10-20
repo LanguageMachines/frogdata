@@ -8884,10 +8884,10 @@ Power I-NP
 Prijs I-NP;B-NP
 Prix I-NP
 Pétain B-NP;I-NP
-Raden I-NP;B-VP
-Rain I-NP
 Rechts B-ADJP;B-ADVP;B-NP
 RECHTS B-NP;I-NP
+Raden I-NP;B-VP
+Rain I-NP
 Report I-NP
 Review I-NP
 Romano B-NP;I-NP
@@ -16439,7 +16439,6 @@ OIE B-NP;I-NP
 ONDER B-PP
 OOK B-ADVP;B-NP
 OPB B-NP
-Os I-NP
 OS B-NP;I-NP
 OSF B-NP;I-NP
 OUDERS B-NP;I-NP
@@ -16455,6 +16454,7 @@ Oostkantons I-NP;B-NP
 Opstelten B-NP
 Optimalisatieprogramma I-NP
 Orleans I-NP;B-NP
+Os I-NP
 Oud-Vroenhoven B-NP
 Oud-minister B-NP
 Oudenaardse I-NP
@@ -20709,6 +20709,7 @@ UK B-NP
 UNDP B-NP
 UNESCO-commissie I-NP;B-NP
 UNHCR I-NP
+Up I-NP
 UP B-NP;I-NP
 USS B-NP;I-NP
 Uitgaande B-ADJP
@@ -20722,7 +20723,6 @@ Un2 I-NP
 Unità B-NP
 Universal B-NP;I-NP
 Untermenschen B-NP;I-NP
-Up I-NP
 Uranus B-NP;I-NP
 Urology I-NP
 Uíge B-NP
@@ -25959,7 +25959,6 @@ Extern B-NP
 Extreem B-ADJP;B-NP
 Eye B-NP;I-NP
 Eynatten B-NP
-Familieleden B-NP
 FAMILIELEDEN B-NP;I-NP
 FAQ20 B-NP
 FARC-rebellen B-NP;I-NP
@@ -25984,6 +25983,7 @@ Fact I-NP
 Factoren B-NP
 Fahey I-NP
 Falun B-NP
+Familieleden B-NP
 Fans B-NP
 Fantastische B-NP;I-NP
 Faro B-NP
@@ -26597,7 +26597,6 @@ KSK B-NP;I-NP
 KUL I-NP
 KULeuven B-NP;I-NP
 KUN B-NP
-Kunt B-VP
 KUNT B-VP
 KWAM B-VP
 Kaagman I-NP
@@ -26739,6 +26738,7 @@ Ku I-NP
 Kuifje-strips I-NP
 Kuifjes B-NP
 Kuijt I-NP
+Kunt B-VP
 Kurhaus I-NP
 Kuringen B-NP
 Kursaal I-NP
@@ -28727,6 +28727,7 @@ Z30 B-NP
 ZANU I-NP
 ZELF B-ADVP
 ZESTIEN I-NP
+Ziekenhuizen B-NP
 ZIEKENHUIZEN B-NP;I-NP
 Zaanse I-NP
 Zagreb B-NP
@@ -28750,7 +28751,6 @@ Zentrale B-NP
 Zestig B-NP
 Zheng I-NP
 Zicht B-NP
-Ziekenhuizen B-NP
 Ziekte- I-NP
 Ziekteduur B-NP
 Zijlaard-van I-NP
@@ -40229,9 +40229,9 @@ CD&V-senator B-NP
 CD&V-top I-NP
 CD&V/N-VA B-NP
 CD&V/NVA B-NP
-CD-ROM B-NP
 CD-box I-NP
 CD-rom B-NP
+CD-ROM B-NP
 CDA-bestuurders I-NP
 CDA-er B-NP
 CDA-ers B-NP
@@ -40407,9 +40407,9 @@ Captan I-NP
 Capucijnen I-NP
 Capucijnenstraat I-NP
 Capucins I-NP
-CarAcas B-NP
 Cara B-NP
 Caracas B-NP
+CarAcas B-NP
 Caraibische B-NP
 Carcassonne B-NP
 Card I-NP
@@ -41494,10 +41494,10 @@ Doen B-VP
 Dof B-ADJP
 Dog I-NP
 Dogo B-NP
+Doha-Ronde I-NP
 Doha-aganda I-NP
 Doha-agenda I-NP
 Doha-ronde I-NP
-Doha-Ronde I-NP
 Dokkum I-NP
 Dokoe B-NP
 Dokter B-NP
@@ -43184,9 +43184,9 @@ Grahn I-NP
 Gramm I-NP
 Grammensactie I-NP
 Grand-Duché I-NP
+Grande B-NP
 Grandslam B-NP
 GrandSlam I-NP
-Grande B-NP
 Granma B-NP
 Granpré I-NP
 Granvelle B-NP
@@ -43225,9 +43225,9 @@ Greys I-NP
 Griek I-NP
 Grieks- I-NP
 Grieks-Cyprus B-NP
+Grieks-Romeins B-NP
 Grieks-orthodoxe I-NP
 Grieks-Orthodoxe B-NP
-Grieks-Romeins B-NP
 Griekse-eiland-schandaal B-NP
 Griffee I-NP
 Griffith B-NP
@@ -43369,10 +43369,10 @@ HAM-D-score B-NP
 HAMAS-ORGANISATIE I-NP
 HANDBAGAGE I-NP
 HANDHAVEN B-VP
-HANS B-NP
 HART I-NP
-HAYDOCK I-NP
 HAns B-NP
+HANS B-NP
+HAYDOCK I-NP
 HCM B-NP
 HCM-activiteiten I-NP
 HCP B-NP
@@ -44116,6 +44116,7 @@ IQ B-NP
 IRA I-NP
 IRAN B-NP
 IRIS-ziekenhuizen I-NP
+IRNA B-NP
 IRON B-NP
 IRT-affaire I-NP
 ISAF-stabilisatiemacht I-NP
@@ -44350,7 +44351,6 @@ Iris B-NP
 Irishman I-NP
 Irisscan I-NP
 Irna B-NP
-IRNA B-NP
 Iron B-NP
 Ironclads I-NP
 Irureta I-NP
@@ -44653,9 +44653,9 @@ Juwelier B-NP
 JÖRGEN B-NP
 Jérôme B-NP
 Jürgen B-NP
-K-frage I-NP
 K-Frage I-NP
 K-Wagen I-NP
+K-frage I-NP
 K.B. B-NP
 K.E. B-NP
 K.H. B-NP
@@ -46804,10 +46804,10 @@ NOAA B-NP
 NOCNSF B-NP
 NODIG B-ADJP
 NOORD-Koreaanse I-NP
-NOS-correspondenten B-NP
+NOS-correspondent I-NP
 NOS-journaal I-NP
 NOS-Journaal I-NP
-NOS-correspondent I-NP
+NOS-correspondenten B-NP
 NOS-radio I-NP
 NOTHING B-NP
 NOVA B-NP
@@ -64398,12 +64398,12 @@ kàn B-VP
 kúnnen I-VP
 kür I-NP
 l' I-NP
-l'Arbre I-NP
 l'Ermit I-NP
 l'Exception B-NP
+l'arbre I-NP
+l'Arbre I-NP
 l'Olympia I-NP
 l'Osservatore B-NP
-l'arbre I-NP
 l'enfer B-NP
 l'on I-NP
 laaaang B-NP

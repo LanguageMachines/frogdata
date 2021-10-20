@@ -8884,10 +8884,10 @@
 9 Prijs B-NP:2 I-NP:7 
 9 Prix I-NP:9 
 9 Pétain B-NP:7 I-NP:2 
-9 Raden B-VP:1 I-NP:8 
-9 Rain I-NP:9 
 9 Rechts B-ADJP:3 B-ADVP:3 B-NP:3 
 9 RECHTS B-NP:8 I-NP:1 
+9 Raden B-VP:1 I-NP:8 
+9 Rain I-NP:9 
 9 Report I-NP:9 
 9 Review I-NP:9 
 9 Romano B-NP:8 I-NP:1 
@@ -16439,7 +16439,6 @@
 4 ONDER B-PP:4 
 4 OOK B-ADVP:3 B-NP:1 
 4 OPB B-NP:4 
-4 Os I-NP:4 
 4 OS B-NP:3 I-NP:1 
 4 OSF B-NP:2 I-NP:2 
 4 OUDERS B-NP:2 I-NP:2 
@@ -16455,6 +16454,7 @@
 4 Opstelten B-NP:4 
 4 Optimalisatieprogramma I-NP:4 
 4 Orleans B-NP:1 I-NP:3 
+4 Os I-NP:4 
 4 Oud-Vroenhoven B-NP:4 
 4 Oud-minister B-NP:4 
 4 Oudenaardse I-NP:4 
@@ -20709,6 +20709,7 @@
 3 UNDP B-NP:3 
 3 UNESCO-commissie B-NP:1 I-NP:2 
 3 UNHCR I-NP:3 
+3 Up I-NP:3 
 3 UP B-NP:2 I-NP:1 
 3 USS B-NP:2 I-NP:1 
 3 Uitgaande B-ADJP:3 
@@ -20722,7 +20723,6 @@
 3 Unità B-NP:3 
 3 Universal B-NP:2 I-NP:1 
 3 Untermenschen B-NP:2 I-NP:1 
-3 Up I-NP:3 
 3 Uranus B-NP:2 I-NP:1 
 3 Urology I-NP:3 
 3 Uíge B-NP:3 
@@ -25959,7 +25959,6 @@
 2 Extreem B-ADJP:1 B-NP:1 
 2 Eye B-NP:1 I-NP:1 
 2 Eynatten B-NP:2 
-2 Familieleden B-NP:2 
 2 FAMILIELEDEN B-NP:1 I-NP:1 
 2 FAQ20 B-NP:2 
 2 FARC-rebellen B-NP:1 I-NP:1 
@@ -25984,6 +25983,7 @@
 2 Factoren B-NP:2 
 2 Fahey I-NP:2 
 2 Falun B-NP:2 
+2 Familieleden B-NP:2 
 2 Fans B-NP:2 
 2 Fantastische B-NP:1 I-NP:1 
 2 Faro B-NP:2 
@@ -26597,7 +26597,6 @@
 2 KUL I-NP:2 
 2 KULeuven B-NP:1 I-NP:1 
 2 KUN B-NP:2 
-2 Kunt B-VP:2 
 2 KUNT B-VP:2 
 2 KWAM B-VP:2 
 2 Kaagman I-NP:2 
@@ -26739,6 +26738,7 @@
 2 Kuifje-strips I-NP:2 
 2 Kuifjes B-NP:2 
 2 Kuijt I-NP:2 
+2 Kunt B-VP:2 
 2 Kurhaus I-NP:2 
 2 Kuringen B-NP:2 
 2 Kursaal I-NP:2 
@@ -28727,6 +28727,7 @@
 2 ZANU I-NP:2 
 2 ZELF B-ADVP:2 
 2 ZESTIEN I-NP:2 
+2 Ziekenhuizen B-NP:2 
 2 ZIEKENHUIZEN B-NP:1 I-NP:1 
 2 Zaanse I-NP:2 
 2 Zagreb B-NP:2 
@@ -28750,7 +28751,6 @@
 2 Zestig B-NP:2 
 2 Zheng I-NP:2 
 2 Zicht B-NP:2 
-2 Ziekenhuizen B-NP:2 
 2 Ziekte- I-NP:2 
 2 Ziekteduur B-NP:2 
 2 Zijlaard-van I-NP:2 
@@ -40229,9 +40229,9 @@
 1 CD&V-top I-NP:1 
 1 CD&V/N-VA B-NP:1 
 1 CD&V/NVA B-NP:1 
-1 CD-ROM B-NP:1 
 1 CD-box I-NP:1 
 1 CD-rom B-NP:1 
+1 CD-ROM B-NP:1 
 1 CDA-bestuurders I-NP:1 
 1 CDA-er B-NP:1 
 1 CDA-ers B-NP:1 
@@ -40407,9 +40407,9 @@
 1 Capucijnen I-NP:1 
 1 Capucijnenstraat I-NP:1 
 1 Capucins I-NP:1 
-1 CarAcas B-NP:1 
 1 Cara B-NP:1 
 1 Caracas B-NP:1 
+1 CarAcas B-NP:1 
 1 Caraibische B-NP:1 
 1 Carcassonne B-NP:1 
 1 Card I-NP:1 
@@ -41494,10 +41494,10 @@
 1 Dof B-ADJP:1 
 1 Dog I-NP:1 
 1 Dogo B-NP:1 
+1 Doha-Ronde I-NP:1 
 1 Doha-aganda I-NP:1 
 1 Doha-agenda I-NP:1 
 1 Doha-ronde I-NP:1 
-1 Doha-Ronde I-NP:1 
 1 Dokkum I-NP:1 
 1 Dokoe B-NP:1 
 1 Dokter B-NP:1 
@@ -43184,9 +43184,9 @@
 1 Gramm I-NP:1 
 1 Grammensactie I-NP:1 
 1 Grand-Duché I-NP:1 
+1 Grande B-NP:1 
 1 Grandslam B-NP:1 
 1 GrandSlam I-NP:1 
-1 Grande B-NP:1 
 1 Granma B-NP:1 
 1 Granpré I-NP:1 
 1 Granvelle B-NP:1 
@@ -43225,9 +43225,9 @@
 1 Griek I-NP:1 
 1 Grieks- I-NP:1 
 1 Grieks-Cyprus B-NP:1 
+1 Grieks-Romeins B-NP:1 
 1 Grieks-orthodoxe I-NP:1 
 1 Grieks-Orthodoxe B-NP:1 
-1 Grieks-Romeins B-NP:1 
 1 Griekse-eiland-schandaal B-NP:1 
 1 Griffee I-NP:1 
 1 Griffith B-NP:1 
@@ -43369,10 +43369,10 @@
 1 HAMAS-ORGANISATIE I-NP:1 
 1 HANDBAGAGE I-NP:1 
 1 HANDHAVEN B-VP:1 
-1 HANS B-NP:1 
 1 HART I-NP:1 
-1 HAYDOCK I-NP:1 
 1 HAns B-NP:1 
+1 HANS B-NP:1 
+1 HAYDOCK I-NP:1 
 1 HCM B-NP:1 
 1 HCM-activiteiten I-NP:1 
 1 HCP B-NP:1 
@@ -44116,6 +44116,7 @@
 1 IRA I-NP:1 
 1 IRAN B-NP:1 
 1 IRIS-ziekenhuizen I-NP:1 
+1 IRNA B-NP:1 
 1 IRON B-NP:1 
 1 IRT-affaire I-NP:1 
 1 ISAF-stabilisatiemacht I-NP:1 
@@ -44350,7 +44351,6 @@
 1 Irishman I-NP:1 
 1 Irisscan I-NP:1 
 1 Irna B-NP:1 
-1 IRNA B-NP:1 
 1 Iron B-NP:1 
 1 Ironclads I-NP:1 
 1 Irureta I-NP:1 
@@ -44653,9 +44653,9 @@
 1 JÖRGEN B-NP:1 
 1 Jérôme B-NP:1 
 1 Jürgen B-NP:1 
-1 K-frage I-NP:1 
 1 K-Frage I-NP:1 
 1 K-Wagen I-NP:1 
+1 K-frage I-NP:1 
 1 K.B. B-NP:1 
 1 K.E. B-NP:1 
 1 K.H. B-NP:1 
@@ -46804,10 +46804,10 @@
 1 NOCNSF B-NP:1 
 1 NODIG B-ADJP:1 
 1 NOORD-Koreaanse I-NP:1 
-1 NOS-correspondenten B-NP:1 
+1 NOS-correspondent I-NP:1 
 1 NOS-journaal I-NP:1 
 1 NOS-Journaal I-NP:1 
-1 NOS-correspondent I-NP:1 
+1 NOS-correspondenten B-NP:1 
 1 NOS-radio I-NP:1 
 1 NOTHING B-NP:1 
 1 NOVA B-NP:1 
@@ -64398,12 +64398,12 @@
 1 kúnnen I-VP:1 
 1 kür I-NP:1 
 1 l' I-NP:1 
-1 l'Arbre I-NP:1 
 1 l'Ermit I-NP:1 
 1 l'Exception B-NP:1 
+1 l'arbre I-NP:1 
+1 l'Arbre I-NP:1 
 1 l'Olympia I-NP:1 
 1 l'Osservatore B-NP:1 
-1 l'arbre I-NP:1 
 1 l'enfer B-NP:1 
 1 l'on I-NP:1 
 1 laaaang B-NP:1 

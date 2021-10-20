@@ -808,9 +808,9 @@ Power
 Prijs
 Prix
 Pétain
+RECHTS
 Rain
 Rechts
-RECHTS
 Reeds
 Report
 Review
@@ -1557,6 +1557,7 @@ Lambermont
 Laurent
 Laureys
 Leterme
+Letterkunde
 Liberale
 Libische
 Liga
@@ -2002,7 +2003,6 @@ lat
 leesvorm
 lerarenopleiding
 letterkunde
-Letterkunde
 letters
 levens
 leverden
@@ -8126,7 +8126,6 @@ Summit
 Surinamers
 Susan
 Sébastien
-THIJS
 TIEN
 TU
 TWAALF
@@ -8149,6 +8148,7 @@ Textkernel
 Theodore
 Theodorus
 Thijs
+THIJS
 Tickets
 Tijden
 Tikrit
@@ -11573,6 +11573,7 @@ PBA-B
 PCB
 PCB-crisis
 PKU
+POP
 PPP
 PR
 Paars
@@ -11620,7 +11621,6 @@ Pol
 Pollentier
 Polo
 Pop
-POP
 Poperinge
 Popp
 Portugezen
@@ -16101,7 +16101,6 @@ BELLEN
 BEMOEIDE
 BENEDEN
 BEROEP
-Bethune
 BETHUNE
 BGSWI
 BIJNA
@@ -16234,6 +16233,7 @@ Bestuurders
 Bestuurszaken
 Betaling
 Betancourt
+Bethune
 Betogingen
 Betrouwbare
 Betuwe-lijn
@@ -16934,9 +16934,9 @@ Félix
 Führer
 G8
 G8-top
+GAan
 GAAN
 GAZASTROOK
-GAan
 GB
 GC-MS
 GDMW
@@ -18619,6 +18619,7 @@ START
 STD-syteem
 STERKER
 STERKSTE
+STRIJD
 Saartje
 Sabena-drama
 Saddams
@@ -18853,7 +18854,6 @@ Straw
 Strengere
 Stress
 Strijd
-STRIJD
 Strijdtoneel
 Structuurfondsen
 Studentenverbond
@@ -19058,7 +19058,6 @@ Useful
 Ustaa-beweging
 Utrechter
 VAF
-Vast
 VAST
 VAV
 VBO
@@ -19125,6 +19124,7 @@ Vanunu
 Vanvelthoven
 Vanwaar
 Varkens
+Vast
 Veelvuldig
 Veelzeggende
 Veendam
@@ -29431,7 +29431,6 @@ Bayeux
 Bayinnaung
 Baylonkerk
 Bazar
-BeCa
 BeNeLux
 Bea
 Beas
@@ -29439,6 +29438,7 @@ Beatles-leest
 Beaux
 Bebloemde
 Beca
+BeCa
 Becauds
 Beck
 Beclers
@@ -30414,9 +30414,9 @@ Capucijnen
 Capucijnenstraat
 Capucins
 Car
-Caracas
 CarAcas
 Cara
+Caracas
 Caraibische
 Carcassonne
 Card
@@ -31437,10 +31437,10 @@ Doema
 Dof
 Dog
 Dogo
-Doha-Ronde
 Doha-aganda
 Doha-agenda
 Doha-ronde
+Doha-Ronde
 Dokkum
 Dokoe
 Dokter
@@ -33846,7 +33846,6 @@ IJsselburg
 IJzerbedevaart
 IJzerbedevaarten
 IJzerbroeken
-Ijzervlakte
 IJzervlakte
 ILLEGALE
 ILLUSTRATIES
@@ -33927,6 +33926,7 @@ IgE-gehalte
 Ignatius
 Ijzer
 Ijzeren
+Ijzervlakte
 Ikzelf
 Il-Sung
 Il-khans
@@ -36341,7 +36341,6 @@ N60
 N8
 NAASTEN
 NABESTAANDEN
-Nabil
 NABIL
 NAC
 NAC-stadion
@@ -36447,6 +36446,7 @@ Na-apen
 Naakte
 Naamdragers
 Naargelang
+Nabil
 Nabloes
 Nachbarland
 Nachfolger
@@ -38710,10 +38710,10 @@ SP-kaderleden
 SP-mandatarissen
 SP-tradities
 SP-voorzitter
+SP.A-parlementslid
 SP.A/Spirit
 SP.a-SPIRIT
 SP.A-SPIRIT
-SP.A-parlementslid
 SPD-congres
 SPD-leden
 SPD-top
@@ -40648,6 +40648,7 @@ VMBO-scholen
 VMM
 VMMtv
 VN-
+VN-Commissie
 VN-Global
 VN-RAPPORT
 VN-afdelingen
@@ -40657,7 +40658,6 @@ VN-blauwhelmen
 VN-bureau
 VN-chef
 VN-commissie
-VN-Commissie
 VN-functionarissen
 VN-gebouwencomplex
 VN-hof
@@ -51497,9 +51497,9 @@ inslagen
 inslapen
 insluiten
 inspanden
-inspectEErden
 inspecteerde
 inspecteerden
+inspectEErden
 inspecteren
 inspectie-team
 inspectiekorpsen

@@ -12038,7 +12038,7 @@ Classes
 12031	N(soort,mv,basis)+Dven+If|WW(pv,verl,mv)+Dorven+Ierven|WW(inf,nom,zonder,zonder-n)|WW(inf,prenom,zonder)|WW(inf,vrij,zonder)|WW(pv,tgw,mv)
 12032	WW(pv,tgw,ev)+Ien|N(soort,ev,basis,zijd,stan)|WW(pv,verl,ev)+Ien|WW(pv,verl,met-t)+Ien|WW(dial)|N(soort,ev,basis,onz,stan)|WW(dial)+Dost+Iunnen|WW(pv,verl,ev)+Dost+Iunnen|WW(pv,verl,met-t)+Dost+Iunnen
 12033	N(soort,ev,basis,dat)+De|WW(pv,conj,ev)|WW(dial)+Doste+Iunnen|WW(pv,conj,ev)+In
-12034	N(soort,mv,basis)+Den|WW(inf,vrij,zonder)|WW(pv,tgw,mv)|WW(pv,verl,mv)|N(soort,ev,basis,zijd,stan)|WW(inf,nom,zonder,zonder-n)|WW(inf,prenom,zonder)|WW(pv,verl,mv)+Dosten+Iunnen
+12034	N(soort,mv,basis)+Den|WW(inf,vrij,zonder)|WW(pv,tgw,mv)|WW(pv,verl,mv)|N(soort,ev,basis,zijd,stan)|WW(inf,nom,zonder,zonder-n)|WW(inf,prenom,zonder)
 12035	N(soort,ev,dim,onz,stan)+Dje|N(soort,mv,basis)
 12036	N(soort,ev,dim,onz,stan)+Dmeke+Ium
 12037	N(soort,dial)|N(soort,mv,basis)+Dsen

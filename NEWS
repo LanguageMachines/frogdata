@@ -1,3 +1,8 @@
+0.20 15-12-2020
+[Ko van der Sloot]
+* retrained all Mbt files (tagger, chunker, ner) with the new UTF8 aware Mbt
+* retrained Timbl trees (Mblem and Mbma) with the new UTF8 aware Timbl
+
 0.18 14-04-2020
 [Ko van der Sloot]
 * added some comment to nld/frog.cfg

@@ -1,3 +1,7 @@
+0.21 22-07-2022
+[Ko van der Sloot]
+* Updated for MBT version 2 (see: https://github.com/LanguageMachines/frogdata/pull/7)
+
 0.20 15-12-2020
 [Ko van der Sloot]
 * retrained all Mbt files (tagger, chunker, ner) with the new UTF8 aware Mbt

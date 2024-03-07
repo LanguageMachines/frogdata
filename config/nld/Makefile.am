@@ -1,7 +1,7 @@
 config_DATA = mblem.tree mblem.tree.wgt \
 	mblem-2.0.lex.tree mblem-2.0.lex.tree.wgt \
 	mbma.igtree mbma.igtree.wgt \
-	mbma-2.igtree mbma-2.igtree.wgt \
+	mbma-2.tree mbma-2.tree.wgt \
 	Frog.mwu.1.0 \
 	Frog.mwu.1.1 \
 	Frog.mbt.1.1.1paxes \
